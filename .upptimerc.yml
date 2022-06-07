@@ -11,7 +11,18 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: Youtube
+    url: https://www.youtube.com/
+  - name: Notion
+    url: https://www.notion.so/
+  - name: NCU portal
+    url: https://portal.ncu.edu.tw/login
+  - name: Facebook
+    url: https://www.facebook.com/
+  - name: microsoft
+    url: https://www.microsoft.com 
+  - name: 無效網址
+    url: https://www.facebook.cam/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
